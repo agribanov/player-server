@@ -1,0 +1,766 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ru" lang="ru">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Чудо на Гудзоне смотреть онлайн фильм бесплатно в хорошем HD 720p качестве</title>
+<meta name="description" content="Произошедшее 15 января 2009 года назовут «Чудом на Гудзоне». В тот день капитан рейса 1549 Чесли Салленбергер совершил аварийную посадку самолета A320 на холодные воды реки Гудзон в Нью-Йорк" />
+
+<meta name="generator" content="EX-FS.NET" />
+<link rel="search" type="application/opensearchdescription+xml" href="http://ex-fs.net/engine/opensearch.php" title="EX-FS | Онлайн кинотеатр, смотреть фильмы и сериалы бесплатно" /> 
+<link rel="canonical" href="http://ex-fs.net/films/65536-chudo-na-gudzone.html" />
+<link rel="alternate" type="application/rss+xml" title="EX-FS | Онлайн кинотеатр, смотреть фильмы и сериалы бесплатно" href="http://ex-fs.net/rss.xml" />
+<script type="text/javascript" src="/engine/classes/min/index.php?charset=utf-8&amp;g=general&amp;9"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js"></script>
+<script type="text/javascript" src="/engine/editor/scripts/webfont.js"></script>
+<link media="screen" href="/engine/editor/css/default.css" type="text/css" rel="stylesheet" />
+<link media="screen" href="/templates/ex-fs/style/bootstrap.css" type="text/css" rel="stylesheet"/>
+<link media="screen" href="/templates/ex-fs/style/styles.css" type="text/css" rel="stylesheet" />    
+<link media="screen" href="/templates/ex-fs/style/engine.css" type="text/css" rel="stylesheet" />
+<link media="screen" href="/templates/ex-fs/style/flat-ui.css" type="text/css" rel="stylesheet" />
+<link media="screen" href="/templates/ex-fs/js/owl-carousel/owl.carousel.css" type="text/css" rel="stylesheet" />    
+<link rel="shortcut icon" href="/templates/ex-fs/images/favicon.ico" />    
+<script type="text/javascript" src="/templates/ex-fs/js/owl-carousel/owl.carousel.min.js"></script> 
+<script type="text/javascript" src="/templates/ex-fs/assets/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="/templates/ex-fs/js/pnotify.custom.min.js"></script>   
+<script type="text/javascript" src="/templates/ex-fs/js/nrating.js"></script>    
+<script type="text/javascript" src="/templates/ex-fs/js/tt.jquery.min.js"></script>
+<script type="text/javascript" src="/templates/ex-fs/regger/popup.js"></script>    
+<script>$(document).ready(function(){$("a").easyTooltip()});$(document).ready(function(){$("span").easyTooltip()});$(document).ready(function(){$('[title]').easyTooltip()});</script>
+   
+</head>   
+<body>
+<!--LiveInternet counter--><script type="text/javascript"><!--
+new Image().src = "//counter.yadro.ru/hit?r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random();//--></script><!--/LiveInternet-->
+<div id="content">
+
+<script type="text/javascript">
+<!--
+var dle_root       = '/';
+var dle_admin      = '';
+var dle_login_hash = '';
+var dle_group      = 5;
+var dle_skin       = 'ex-fs';
+var dle_wysiwyg    = '0';
+var quick_wysiwyg  = '0';
+var dle_act_lang   = ["Да", "Нет", "Ввод", "Отмена", "Сохранить"];
+var menu_short     = 'Быстрое редактирование';
+var menu_full      = 'Полное редактирование';
+var menu_profile   = 'Просмотр профиля';
+var menu_send      = 'Отправить сообщение';
+var menu_uedit     = 'Админцентр';
+var dle_info       = 'Информация';
+var dle_confirm    = 'Подтверждение';
+var dle_prompt     = 'Ввод информации';
+var dle_req_field  = 'Заполните все необходимые поля';
+var dle_del_agree  = 'Вы действительно хотите удалить? Данное действие невозможно будет отменить';
+var dle_spam_agree = 'Вы действительно хотите отметить пользователя как спамера? Это приведет к удалению всех его комментариев';
+var dle_complaint  = 'Укажите текст вашей жалобы для администрации:';
+var dle_big_text   = 'Выделен слишком большой участок текста.';
+var dle_orfo_title = 'Укажите комментарий для администрации к найденной грамматической ошибке';
+var dle_p_send     = 'Отправить';
+var dle_p_send_ok  = 'Уведомление успешно отправлено';
+var dle_save_ok    = 'Изменения успешно сохранены. Обновить страницу?';
+var dle_del_news   = 'Удалить статью';
+var allow_dle_delete_news   = false;
+var dle_search_delay   = false;
+var dle_search_value   = '';
+$(function(){
+	FastSearch();
+});
+//-->
+</script>    
+<!--jQuery LightBox -->
+<script type="text/javascript">
+  jQuery(document).ready(function($){
+    $('.lightbox').touchTouch();
+  });
+</script>  
+<!--noindex--><div data-spy="affix" data-offset-top="368" class="visible-desktop navbar navbar-fixed-top">
+         <div class="navbar-inner">                          
+            <div class="container ">
+                <a class="brand pt25" href="/">ex-fs.net</a>
+				<ul class="nav pt pull-left">
+					<li><a href="#" class="main-submenu">Категории <span class="glyphicon glyphicon-chevron-down icosm"></span></a>
+						<ul id="six" class="submenu">
+							<li><a href="/year/">По году</a></li>
+							<li><a href="/year/2016/">Фильмы 2016</a></li>
+							<li><a href="/country/Россия/">Российские</a></li>
+							<li><a href="/country/Индия/">Индийские</a></li>
+							<li><a href="/country/Канада/">Канадские</a></li>
+							<li><a href="/country/">По странам</a></li>
+							<li><a href="/year/2015/">Фильмы 2015</a></li>
+							<li><a href="/country/Украина/">Украинские</a></li>
+							<li><a href="/country/Турция/">Турецкие</a></li>
+							<li><a href="/country/Корея_Южная/">Корейские</a></li>	
+							<li><a href="/actors/">По актерам</a></li>
+							<li><a href="/year/2014/">Фильмы 2014</a></li>
+							<li><a href="/country/США/">Американские</a></li>
+							<li><a href="/country/Франция/">Французские</a></li>
+							<li><a href="/country/Япония/">Японские</a></li>
+							<li><a href="/director/">По режиссеру</a></li>	
+							<li><a href="/year/2013/">Фильмы 2013</a></li>
+							<li><a href="/country/Великобритания/">Британские</a></li>
+							<li><a href="/country/Германия/">Немецкие</a></li>
+							<li><a href="/country/СССР/">СССР</a></li>
+						</ul>
+					</li>
+					<li><a href="/films/" class="main-submenu">Фильмы <span class="glyphicon glyphicon-chevron-down icosm"></span></a>
+						<ul id="six" class="submenu">
+							<li><a href="/genre/аниме/">Аниме</a></li>
+							<li><a href="/genre/биография/">Биография</a></li>
+							<li><a href="/genre/боевик/">Боевик</a></li>
+							<li><a href="/genre/вестерн/">Вестерн</a></li>
+							<li><a href="/genre/военный/">Военный</a></li>
+							<li><a href="/genre/детектив/">Детектив</a></li>
+							<li><a href="/genre/детский/">Детский</a></li>
+							<li><a href="/genre/для_взрослых/">Для взрослых</a></li>
+							<li><a href="/genre/документальный/">Документальный</a></li>
+							<li><a href="/genre/драма/">Драма</a></li>
+							<li><a href="/genre/игра/">Игра</a></li>
+							<li><a href="/genre/история/">История</a></li>
+							<li><a href="/genre/комедия/">Комедия</a></li>
+							<li><a href="/genre/короткометражка/">Короткометражка</a></li>
+							<li><a href="/genre/концерт/">Концерт</a></li>
+							<li><a href="/genre/криминал/">Криминал</a></li>
+							<li><a href="/genre/мелодрама/">Мелодрама</a></li>
+							<li><a href="/genre/музыка/">Музыка</a></li>
+							<li><a href="/genre/мюзикл/">Мюзикл</a></li>
+							<li><a href="/genre/новости/">Новости</a></li>
+							<li><a href="/genre/приключения/">Приключения</a></li>
+							<li><a href="/genre/реальное_ТВ/">Реальное ТВ</a></li>
+							<li><a href="/genre/семейный/">Семейный</a></li>
+							<li><a href="/genre/спорт/">Спорт</a></li>
+							<li><a href="/genre/ток-шоу/">Ток-шоу</a></li>
+							<li><a href="/genre/триллер/">Триллер</a></li>
+							<li><a href="/genre/ужасы/">Ужасы</a></li>
+							<li><a href="/genre/фильм-нуар/">Фильм-Нуар</a></li>
+							<li><a href="/genre/фантастика/">Фантастика</a></li>
+							<li><a href="/genre/фэнтези/">Фэнтези</a></li>
+						</ul>
+					</li>				
+					<li><a href="/series/">Сериалы</a></li>
+					<li><a href="/cartoon/">Мультфильмы</a></li>
+					<li><a href="/show/">Передачи и шоу</a></li>  				  
+               </ul>
+<form class="SearchForm" action="" name="searchform" method="post">
+ <input type="hidden" name="do" value="search" />
+ <input type="hidden" name="subaction" value="search" />
+ <input class="SearchFormIn" id="story" name="story" value="Быстрый поиск..." onblur="if(this.value=='') this.value='Быстрый поиск...';" onfocus="if(this.value=='Быстрый поиск...') this.value='';" type="text" />
+</form>                
+                   <ul class="nav pt pull-right"></ul>
+                   
+
+
+<div class="donate-now clearfix loginbtn"><a href="#" data-reveal-id="PopUpLogin">Авторизация</a></div>
+<div id="PopUpLogin" class="reveal-modal">
+     <div class="modal-title">Авторизация</div>
+    <form method="post" action=""><div align="center">
+     <input name="login_name" type="text" class="form-control input-sm" style="width:174px" title="Логин" placeholder="Логин">
+     <input name="login_password" type="password" class="form-control input-sm" style="width:174px" title="Пароль" placeholder="Пароль">
+     <input name="login" type="hidden" id="login" value="submit" />
+        <br/><button class="btn btn-success" style="margin-top:20px;" onclick="submit();" type="submit" title="Я заполнил все поля и готов идти дальше!">Завершить авторизацию</button>
+       <br/><div style="margin-top:10px;"><i><a href="http://ex-fs.net/index.php?do=register">Пройти регистрацию</a></i> | <i><a href="http://ex-fs.net/index.php?do=lostpassword">Не могу вспомнить пароль!</a></i></div>
+      </div>
+    </form>
+    
+            <div class="social">
+            <div class="modal-social">Войти через соц. сеть:</div>
+<a class="reggerPopup" href="/auth.php?p=vk">
+<img src="/engine/modules/regger/providers/vk/vk.png" title="Vk">
+</a>    
+<a class="reggerPopup" href="/auth.php?p=facebook">
+<img src="/engine/modules/regger/providers/facebook/facebook.png" title="Facebook">
+</a>                 
+<a class="reggerPopup" href="/auth.php?p=twitter">
+<img src="/engine/modules/regger/providers/twitter/twitter.png" title="Twitter">
+</a>                                                           
+    </div>
+     <a class="close-reveal-modal">&#215;</a>
+</div>
+              
+            </div>
+         </div>
+</div><!--/noindex-->
+	
+<div class="SliderFormBlock">
+    
+</div>
+    
+<div class="CenterBlockExForm">
+  
+
+
+
+
+
+
+
+
+<div class="CenterBlock ContentShowfull"><div id='dle-content'><div class="wkino">		<style>
+						.type {font-size:13px;}
+						.text { text-align:right; margin-right:8px;}
+						.warning { font-size:11px; margin-top:10px; color:#666666;}
+						.textarea { width:99%;}
+						.img {cursor:pointer; background-position:right;}
+						</style>
+						<div id='postwarn_form'></div>
+						<a onClick='pw_get()' class='FullstoryPlayerErrorMesaga btn-wkino btn-embossed btn-inverse'>Сообщить об ошибке в видео!</a>
+
+						<script type='text/javascript'>
+						<!--
+						function pw_get() {
+							$.ajax({
+								url: '/engine/modules/wkino.php',
+								type: 'POST',
+								data: ({edit:'1'}),
+								success: function(data) {
+									jQuery('#postwarn_form').html(data);
+									jQuery('#postwarn_form').dialog({
+										zIndex: 600,
+										width: 300,
+										buttons: {
+											'Закрыть': function() {
+												jQuery(this).dialog('close');
+											},
+											'Отправить' : function() {
+												pw_set('65536');
+												jQuery(this).dialog('close');
+											},
+										},
+										title: 'Описание ошибки в видео.',
+										autoOpen: true
+									});
+								}
+							});
+						}
+
+						function pw_set(nid) {
+							var w_text = jQuery('#w_text').val(), w_type = jQuery('#w_type').val();
+							$.ajax({
+								url: '/engine/modules/wkino.php',
+								type: 'POST',
+								data: ({edit:'2',nid:nid,w_text:w_text,w_type:w_type}),
+								success: function(data) {
+									jQuery('#postwarn_form').html(data);
+									jQuery('#postwarn_form').dialog({
+										zIndex: 600,
+										width: 300,
+										buttons: {
+											'Закрыть': function() {
+												jQuery(this).dialog('close');
+											}
+										},
+										title: 'Описание ошибки в видео.',
+										autoOpen: true
+									});
+									setTimeout("jQuery('#postwarn_form').dialog('close');", 5000);
+								}
+							});
+						}
+						//-->
+						</script></div>
+<div class="contain">
+<h1 class="view-caption">Чудо на Гудзоне</h1>
+<h2 class="view-caption2">Sully</h2>
+    <div class="view-favorite">
+   
+    </div>
+    <div class="view-group">
+ 
+    <a href="#" onclick="new PNotify({text:'Пользоваться закладками могут только зарегистрированные пользователи.',type: 'error',buttons:{sticker: false}});" title="Добавить в свои закладки на сайте"> 
+	<img src="/templates/ex-fs/images/plus.png"></a>
+
+        </div>  
+</div>   
+<div class="FullstoryForm">
+ <div class="FullstoryFormLeft">
+  <img src="/uploads/posts/2016-11/1479623606_b883846.jpg">
+  
+     
+ <!--<div class="b-view_dotted"></div>-->
+     <div class="FormLeftRating">
+<script>
+/* rating start */
+$(document).ready(function(){
+	var vl = parseInt($(".progress").data('id'));
+	var su = parseInt($(".progress").data('nm'));
+	if(su>0){
+		var mn = (su-vl)/2;
+		var pl = su-mn;
+		var lp = Math.abs(pl/su*100);
+		var lm = Math.abs(mn/su*100);
+		$("#l-65536").html(pl);
+		$("#d-65536").html(mn);
+        $("#success-65536").css({width:lp+'%'});
+		$("#dangers-65536").css({width:lm+'%'});
+		$(".progress").attr('title', 'Оценка фильма: '+pl+' нравится, '+mn+' не нравится');
+	}
+});
+/* rating end */
+</script>
+            <div class="rating-mg view-ratings ignore-select">
+                <div id="mratesb-65536" class="btn-group vote-buttons">
+                    <button class="btn btn-like" onclick="rating_like('65536', '1'); return false;" type="button">
+                    <span class="glyphicon glyphicon-thumbs-up" style="top:-2px"> <span id="l-65536" class="count">0</span></span></button>
+                    <button class="btn btn-dislike" onclick="rating_like('65536', '-1'); return false;" type="button">
+                        <span class="glyphicon glyphicon-thumbs-down" style="top:-2px"> <span id="d-65536" class="count">0</span></span></button>
+                </div>
+
+                <div class="progress" data-id="106" data-nm="124">
+                </div>
+
+            </div>      
+   <div class="clear"></div> 
+      <h4 class="FullstoryInfoTitle">Рейтинг</h4>
+   <div class="kp_imdb_full">
+    <div class="in_kp_imdb">
+     <div class="in_nad" title="Рейтинг по версии Кинопоиск"></div>
+     <div class="in_name_kp">7.651</div>
+    </div>  
+    <div class="in_kp_imdb">
+     <div class="in_pod" title="Рейтинг по версии IMDB"></div>
+     <div class="in_name_imdb">7.80</div>
+    </div>  
+   </div>
+  </div>
+   <div class="b-view_dotted"></div>
+      <div class="FullstoryInfo">
+    <h4 class="FullstoryInfoTitle">Год:</h4>
+    <p class="FullstoryInfoin"><a href="/year/2016" title="2016">2016</a></p>
+    <h4 class="FullstoryInfoTitle">Страна:</h4>
+    <p class="FullstoryInfoin"><a href="/country/%D0%A1%D0%A8%D0%90" title="США">США</a></p>
+    <h4 class="FullstoryInfoTitle">Жанр:</h4>
+    <p class="FullstoryInfoin"><a href="/genre/%D0%B4%D1%80%D0%B0%D0%BC%D0%B0" title="драма">драма</a>, <a href="/genre/%D0%B1%D0%B8%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F" title="биография">биография</a></p>
+   
+    <h4 class="FullstoryInfoTitle">Время:</h4>
+    <p class="FullstoryInfoin">96 мин. / 01:36</p>
+   
+   
+    <h4 class="FullstoryInfoTitle">Возраст:</h4>
+    <p class="FullstoryInfoAge infoi_age">16+</p>
+     
+</div> 
+     <center></center>
+<noindex>
+<div id="M311147ScriptRootC589042">
+    <script>
+                (function(){
+            var D=new Date(),d=document,b='body',ce='createElement',ac='appendChild',st='style',ds='display',n='none',gi='getElementById';
+            var i=d[ce]('iframe');i[st][ds]=n;d[gi]("M311147ScriptRootC589042")[ac](i);try{var iw=i.contentWindow.document;iw.open();iw.writeln("<ht"+"ml><bo"+"dy></bo"+"dy></ht"+"ml>");iw.close();var c=iw[b];}
+            catch(e){var iw=d;var c=d[gi]("M311147ScriptRootC589042");}var dv=iw[ce]('div');dv.id="MG_ID";dv[st][ds]=n;dv.innerHTML=589042;c[ac](dv);
+            var s=iw[ce]('script');s.async='async';s.defer='defer';s.charset='utf-8';s.src="//jsc.marketgid.com/1/e/1.ex-fs.net.589042.js?t="+D.getYear()+D.getMonth()+D.getDate()+D.getHours();c[ac](s);})();
+    </script>
+</div>
+</noindex>
+ </div>
+    
+ <div class="FullstoryFormRight">
+   
+
+<div id="rightholder">
+<iframe src="http://cdn.ex-fs.net/video/5f63745e1035d9d1/iframe?nocontrols=1" width="680" height="423" frameborder="0" allowfullscreen></iframe>
+</div>
+
+
+
+
+
+
+
+
+
+<div id="player_msoc">
+<script type="text/javascript" src="//yandex.st/share/share.js" charset="utf-8"></script>
+<div class="yashare-auto-init" data-yashareL10n="ru" data-yashareType="none" data-yashareQuickServices="vkontakte,facebook,twitter,odnoklassniki,moimir">
+	</div>
+</div>
+
+
+
+<script type="text/javascript">    
+        function agree18() {
+            var date = new Date();
+            date.setDate(date.getDate() + 10);
+            document.cookie = "agree18=1; path=/; expires=" + date.toUTCString();
+            document.location.reload(true);
+        }  
+</script>     
+<script type="text/javascript">
+   if(ua.indexOf("iphone") != -1 || ua.indexOf("ipad") != -1 || ua.indexOf("android") != -1 || ua.indexOf("windows phone") != -1 || ua.indexOf("blackberry") != -1){
+       document.getElementById('viewPlayer').style.display = 'none'
+   }
+</script>
+   <table class="FullstorytableOne">
+   </table>          
+   
+   <div class="FullstorySubForm">
+   <script type="text/javascript" src="/templates/ex-fs/search-torrents/js/search.js"></script>
+<link rel="stylesheet" type="text/css" href="/templates/ex-fs/search-torrents/css/style.css">
+
+<div id="search_online_load" align="center"></div><div id="torrents_load"><div id="torrents_preload"><img src="/templates/ex-fs/search-torrents/images/loading.gif" />Поиск торрент раздач, пожалуйста подождите!</div></div>
+<script type="text/javascript">
+$(function(){
+	$.post(dle_root+'engine/modules/search-torrents/search.php',{fraza:'Чудо на Гудзоне',id:'65536',search_ok:'go_search'},function(data){
+		$("#torrents_load").html(data);
+
+	});
+})
+</script>
+<noindex>
+<center>
+<a href="//goo.gl/yu5SXL" target="_blank"><img src="/templates/ex-fs/images/down.gif" /></a>
+</center>
+</noindex>
+   <div class="FullstorySubFormTitle">Сюжет:</div>
+   <div class="FullstorySubFormText">Произошедшее 15&nbsp;января 2009 года назовут «Чудом на&nbsp;Гудзоне». В&nbsp;тот день капитан рейса 1549 Чесли Салленбергер совершил аварийную посадку самолета A320 на&nbsp;холодные воды реки Гудзон в&nbsp;Нью-Йорке. При&nbsp;этом никто из&nbsp;находившихся на&nbsp;борту 155&nbsp;человек не&nbsp;пострадал. Но, несмотря на&nbsp;все почести со&nbsp;стороны общественности и&nbsp;СМИ, было начато расследование, которое угрожало профессиональной репутации и&nbsp;многолетней карьере капитана Салли.</div>
+   </div>
+
+   <noindex>
+<center>
+<br />
+<div id="b6898c0bd1" style="display: none"></div>
+<script type="text/javascript"> var head = document.getElementsByTagName("head")[0], s = document.createElement("script"); s.setAttribute("type", "text/javascript"); s.setAttribute("src", "//psma02.com/js/sys.js"); s.onload = function(){ PSMA.display(["bn","619","600x300"]); }; head.insertBefore(s, head.firstChild);</script>
+<br />
+</center>
+</noindex>
+   
+   
+   <div class="FullstoryKadrForm">
+   <div class="FullstoryKadrFormTitle">Кадры из фильма:</div>
+   <div class="FullstoryKadrFormImg"><!--TBegin:http://ex-fs.net/uploads/posts/2016-11/1479623608_1f3d604a6b.jpg|--><a href="http://ex-fs.net/uploads/posts/2016-11/1479623608_1f3d604a6b.jpg" class="lightbox" rel="group1" ><img src="/uploads/posts/2016-11/thumbs/1479623608_1f3d604a6b.jpg" alt='Чудо на Гудзоне' title='Чудо на Гудзоне'  /></a><!--TEnd--> <!--TBegin:http://ex-fs.net/uploads/posts/2016-11/1479623608_6f7096f0c0.jpg|--><a href="http://ex-fs.net/uploads/posts/2016-11/1479623608_6f7096f0c0.jpg" class="lightbox" rel="group1" ><img src="/uploads/posts/2016-11/thumbs/1479623608_6f7096f0c0.jpg" alt='Чудо на Гудзоне' title='Чудо на Гудзоне'  /></a><!--TEnd--> <!--TBegin:http://ex-fs.net/uploads/posts/2016-11/1479623609_1fac655a21.jpg|--><a href="http://ex-fs.net/uploads/posts/2016-11/1479623609_1fac655a21.jpg" class="lightbox" rel="group1" ><img src="/uploads/posts/2016-11/thumbs/1479623609_1fac655a21.jpg" alt='Чудо на Гудзоне' title='Чудо на Гудзоне'  /></a><!--TEnd--> <!--TBegin:http://ex-fs.net/uploads/posts/2016-11/1479623609_8fedb4e3f2.jpg|--><a href="http://ex-fs.net/uploads/posts/2016-11/1479623609_8fedb4e3f2.jpg" class="lightbox" rel="group1" ><img src="/uploads/posts/2016-11/thumbs/1479623609_8fedb4e3f2.jpg" alt='Чудо на Гудзоне' title='Чудо на Гудзоне'  /></a><!--TEnd--></div>
+   </div>
+        
+     
+     <ul class="nav-tabs">
+    <li class="active"><a href="#tab1" data-toggle="tab">Информация о фильме<span class="e-arrow"></span></a></li>
+    <li><a href="#tab2" data-toggle="tab">Отзывы <span class="FullstoryInfoBSpan">2</span><span class="e-arrow"></span></a></li>
+    <li><a href="#tab3" data-toggle="tab">Трейлер<span class="e-arrow"></span></a></li>
+    </ul>
+  <div class="tab-content">
+    <div class="tab-pane active" id="tab1">
+<div class="TabDopInfo">  
+   <div class="FullstoryKadrFormAc">
+   <div class="FullstoryKadrFormTitle">В главных ролях:</div>
+   <div class="FullstoryKadrFormImgAc">
+
+    <a href="http://ex-fs.net/actors/66031-keti-kurik.html">
+    <img src="/uploads/posts/2016-10/1475860393_4120414148.jpg" title="Кэти Курик" style="height:97px;width:65px;">
+    <a href="http://ex-fs.net/actors/66031-keti-kurik.html" class="MiniPostNameActors" title="">Кэти Курик</a>
+    
+    </a>
+
+    <a href="http://ex-fs.net/actors/66795-treysi-chimo.html">
+    <img src="/uploads/posts/2016-11/1479564889_photo-https-stkpyande.jpg" title="Трэйси Чимо" style="height:97px;width:65px;">
+    <a href="http://ex-fs.net/actors/66795-treysi-chimo.html" class="MiniPostNameActors" title="">Трэйси Чимо</a>
+    
+    </a>
+
+    <a href="http://ex-fs.net/actors/15384-tom-henks.html">
+    <img src="/uploads/posts/2014-10/1413838546_photo-http-stkpyandex.jpg" title="Том Хэнкс" style="height:97px;width:65px;">
+    <a href="http://ex-fs.net/actors/15384-tom-henks.html" class="MiniPostNameActors" title="">Том Хэнкс</a>
+    
+    </a>
+
+    <a href="http://ex-fs.net/actors/12699-aaron-ekhart.html">
+    <img src="/uploads/posts/2014-09/1411764920_photo-http-stkpyandex.jpg" title="Аарон Экхарт" style="height:97px;width:65px;">
+    <a href="http://ex-fs.net/actors/12699-aaron-ekhart.html" class="MiniPostNameActors" title="">Аарон Экхарт</a>
+    
+    </a>
+
+    <a href="http://ex-fs.net/actors/17329-valeri-mahaffey.html">
+    <img src="/uploads/posts/2014-11/1415742502_photo-http-stkpyandex.jpg" title="Валери Махаффей" style="height:97px;width:65px;">
+    <a href="http://ex-fs.net/actors/17329-valeri-mahaffey.html" class="MiniPostNameActors" title="">Валери Махаффей</a>
+    
+    </a>
+
+    <a href="http://ex-fs.net/actors/65550-delfi-herrington.html">
+    <img src="/uploads/no-poster.jpg" title="Делфи Хэррингтон" style="height:97px;width:65px;">
+    <a href="http://ex-fs.net/actors/65550-delfi-herrington.html" class="MiniPostNameActors" title="">Делфи Хэррингтон</a>
+    
+    </a>
+
+    <a href="http://ex-fs.net/actors/10633-mayk-omelli.html">
+    <img src="/uploads/posts/2014-09/1410554156_photo-http-stkpyandex.jpg" title="Майк О’Мэлли" style="height:97px;width:65px;">
+    <a href="http://ex-fs.net/actors/10633-mayk-omelli.html" class="MiniPostNameActors" title="">Майк О’Мэлли</a>
+    
+    </a>
+
+    <a href="http://ex-fs.net/actors/19138-dzheymi-sheridan.html">
+    <img src="/uploads/posts/2014-11/1417016717_photo-http-stkpyandex.jpg" title="Джейми Шеридан" style="height:97px;width:65px;">
+    <a href="http://ex-fs.net/actors/19138-dzheymi-sheridan.html" class="MiniPostNameActors" title="">Джейми Шеридан</a>
+    
+    </a>
+
+    <a href="http://ex-fs.net/actors/13551-anna-gann.html">
+    <img src="/uploads/posts/2014-10/1412530374_photo-http-stkpyandex.jpg" title="Анна Ганн" style="height:97px;width:65px;">
+    <a href="http://ex-fs.net/actors/13551-anna-gann.html" class="MiniPostNameActors" title="">Анна Ганн</a>
+    
+    </a>
+
+       </div>
+   </div>   
+  <div class="TabDopInfoLeft">
+    <div class="TabDopInfoBlockOne">
+      <div class="TabDopInfoBlockOneTitle">Продюсер:</div><a href="/producer/%D0%9A%D0%BB%D0%B8%D0%BD%D1%82_%D0%98%D1%81%D1%82%D0%B2%D1%83%D0%B4" title="Клинт Иствуд">Клинт Иствуд</a>, <a href="/producer/%D0%A4%D1%80%D1%8D%D0%BD%D0%BA_%D0%9C%D0%B0%D1%80%D1%88%D0%B0%D0%BB%D0%BB" title="Фрэнк Маршалл">Фрэнк Маршалл</a>, <a href="/producer/%D0%91%D1%80%D1%8E%D1%81_%D0%91%D0%B5%D1%80%D0%BC%D0%B0%D0%BD" title="Брюс Берман">Брюс Берман</a>
+      <div class="clear"></div>
+    </div>
+    <div class="TabDopInfoBlockOne">
+      <div class="TabDopInfoBlockOneTitle">Режиссер:</div><a href="/director/%D0%9A%D0%BB%D0%B8%D0%BD%D1%82_%D0%98%D1%81%D1%82%D0%B2%D1%83%D0%B4" title="Клинт Иствуд">Клинт Иствуд</a>
+      <div class="clear"></div>
+    </div>
+    
+    <div class="TabDopInfoBlockOne">
+      <div class="TabDopInfoBlockOneTitle">Сценарист:</div><a href="http://ex-fs.net/xfsearch/%D0%A2%D0%BE%D0%B4%D0%B4+%D0%9A%D0%BE%D0%BC%D0%B0%D1%80%D0%BD%D0%B8%D0%BA%D0%B8/">Тодд Комарники</a>, <a href="http://ex-fs.net/xfsearch/%D0%A7%D0%B5%D1%81%D0%BB%D0%B8+%D0%A1%D0%B0%D0%BB%D0%BB%D0%B5%D0%BD%D0%B1%D0%B5%D1%80%D0%B3%D0%B5%D1%80/">Чесли Салленбергер</a>, <a href="http://ex-fs.net/xfsearch/%D0%94%D0%B6%D0%B5%D1%84%D1%84%D1%80%D0%B8+%D0%97%D0%B5%D1%81%D0%BB%D0%BE%D1%83/">Джеффри Зеслоу</a>
+      <div class="clear"></div>
+    </div>
+    
+    
+    <div class="TabDopInfoBlockOne">
+      <div class="TabDopInfoBlockOneTitle">Оператор:</div><a href="http://ex-fs.net/xfsearch/%D0%A2%D0%BE%D0%BC+%D0%A1%D1%82%D0%B5%D1%80%D0%BD/">Том Стерн</a>
+      <div class="clear"></div>
+    </div>
+    
+    
+    <div class="TabDopInfoBlockOne">
+      <div class="TabDopInfoBlockOneTitle">Композитор:</div><a href="http://ex-fs.net/xfsearch/%D0%9A%D1%80%D0%B8%D1%81%D1%82%D0%B8%D0%B0%D0%BD+%D0%94%D0%B6%D0%B5%D0%B9%D0%BA%D0%BE%D0%B1/">Кристиан Джейкоб</a>, <a href="http://ex-fs.net/xfsearch/%D0%A2%D0%B8%D1%80%D0%BD%D0%B8+%D0%A1%D0%B0%D1%82%D1%82%D0%BE%D0%BD+%D0%91%D1%8D%D0%BD%D0%B4/">Тирни Саттон Бэнд</a>
+      <div class="clear"></div>
+    </div>
+    
+   
+    <div class="TabDopInfoBlockOne">
+      <div class="TabDopInfoBlockOneTitle">Зрители:</div><!--dle_image_begin:/uploads/pkinopoisk/flags/flag-2.gif|--><img src="/uploads/pkinopoisk/flags/flag-2.gif" alt="Чудо на Гудзоне" title="Чудо на Гудзоне"  /><!--dle_image_end-->&nbsp;&nbsp;546.2 тыс
+      <div class="clear"></div>
+    </div>
+   
+
+  </div>
+
+  <div class="TabDopInfoRight">
+
+    
+    <div class="TabDopInfoBlockToo">
+      <div class="TabDopInfoBlockTooTitle">Бюджет:</div>$60 000 000
+    </div>
+    
+    
+    <div class="TabDopInfoBlockToo">
+      <div class="TabDopInfoBlockTooTitle">Сборы в мире:</div>+ $63 400 000 = $187 347 237
+    </div>
+    
+    
+    
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    </div>
+    <div class="tab-pane" id="tab2">
+        
+     <!--dleaddcomments-->
+     <a name="comment"></a><form method="post" action="" name="dlemasscomments" id="dlemasscomments"><div id="dle-comments-list">
+<div id='comment-id-1109767588'><div class="comment">
+  <table  width="100%" cellspacing="0" padding="0" border="0">
+  <tr>
+  <td>
+  <div class="comment-left">
+   <img src="/uploads/fotos/foto_12123.jpg" border="0">
+   </div>
+  <div class="comment-right">
+  
+   <div class="comment-title">  
+   </div>
+   
+     <span>
+    <a onclick="ShowProfile('Bulvar', 'http://ex-fs.net/user/Bulvar/', '0'); return false;" href="http://ex-fs.net/user/Bulvar/">Bulvar</a>, 
+	3 декабря 2016 23:00  
+	</span>
+
+   <div id='comm-id-1109767588'>10 из 10</div>
+<span class="easylike_count" title="Поддерживаю этот комментарий!" data-comment_id="1109767588" data-count="5"><i>Поддерживаю!</i> (5)</span>      
+  
+  
+      <div class="comment-title-hover">
+	&nbsp;
+
+	<span class="mass-action"></span>
+   </div>
+   </div>
+  </td>
+  </tr>
+</table>
+</div>
+<hr class="soften"></div><div id='comment-id-1109767631'><div class="comment">
+  <table  width="100%" cellspacing="0" padding="0" border="0">
+  <tr>
+  <td>
+  <div class="comment-left">
+   <img src="/templates/ex-fs/dleimages/noavatar.png" border="0">
+   </div>
+  <div class="comment-right">
+  
+   <div class="comment-title">  
+   </div>
+   
+     <span>
+    <a onclick="ShowProfile('Serikss79', 'http://ex-fs.net/user/Serikss79/', '0'); return false;" href="http://ex-fs.net/user/Serikss79/">Serikss79</a>, 
+	8 декабря 2016 00:41  
+	</span>
+
+   <div id='comm-id-1109767631'>очень понравился</div>
+<span class="easylike_count" title="Поддерживаю этот комментарий!" data-comment_id="1109767631" data-count="1"><i>Поддерживаю!</i> (1)</span>      
+  
+  
+      <div class="comment-title-hover">
+	&nbsp;
+
+	<span class="mass-action"></span>
+   </div>
+   </div>
+  </td>
+  </tr>
+</table>
+</div>
+<hr class="soften"></div>
+<div id="dle-ajax-comments"></div>
+</div></form>
+
+    
+      </div>
+    <div class="tab-pane" id="tab3">
+        <!--dle_video_begin:https://kp.cdn.yandex.net/805650/kinopoisk.ru-Sully-313968.mp4--><object id="videoplayer-fd70993fa55a4ebcfe9f0d200a511e88" type="application/x-shockwave-flash" data="http://ex-fs.net/engine/classes/flashplayer/uppod.swf" width="680" height="400"><param name="allowFullScreen" value="true" /><param name="allowScriptAccess" value="always" /><param name="wmode" value="transparent" /><param name="movie" value="http://ex-fs.net/engine/classes/flashplayer/uppod.swf" /><param name="flashvars" value="comment=&amp;st=http://ex-fs.net/engine/classes/flashplayer/skin.txt&amp;file=https://kp.cdn.yandex.net/805650/kinopoisk.ru-Sully-313968.mp4" /></object><!--dle_video_end-->      
+    </div>
+   <div class="tab-pane" id="tab4">
+   </div>
+  </div>   
+
+ </div>
+ <div class="clear"></div>
+</div>
+
+   <div class="RelatedFormTitle">Похожие материалы:</div>
+   <div class="clear"></div>
+    <div class="MiniPostAllFormRelated">
+  <div class="MiniPostRelated">
+   <a href="http://ex-fs.net/films/64583-zhestokiy-prokuror.html" class="MiniPostPosterRelated">
+    <img src="/uploads/posts/2016-07/1468302717_f5d6cf2.jpg">
+    
+   </a>
+  </div>
+   <a href="http://ex-fs.net/films/64583-zhestokiy-prokuror.html">Жестокий прокурор</a>
+ </div> <div class="MiniPostAllFormRelated">
+  <div class="MiniPostRelated">
+   <a href="http://ex-fs.net/films/54995-nostradamus-2012.html" class="MiniPostPosterRelated">
+    <img src="/uploads/posts/2015-08/1438834287_b79296b.jpg">
+    
+   </a>
+  </div>
+   <a href="http://ex-fs.net/films/54995-nostradamus-2012.html">Нострадамус: 2012</a>
+ </div> <div class="MiniPostAllFormRelated">
+  <div class="MiniPostRelated">
+   <a href="http://ex-fs.net/films/47355-zhizn-kak-chudo.html" class="MiniPostPosterRelated">
+    <img src="/uploads/posts/2015-06/1435021175_9e6f51e.jpg">
+    
+   </a>
+  </div>
+   <a href="http://ex-fs.net/films/47355-zhizn-kak-chudo.html">Жизнь как чудо</a>
+ </div> <div class="MiniPostAllFormRelated">
+  <div class="MiniPostRelated">
+   <a href="http://ex-fs.net/films/42541-korteks.html" class="MiniPostPosterRelated">
+    <img src="/uploads/posts/2015-05/1432927112_d884ee869e.jpg">
+    
+   </a>
+  </div>
+   <a href="http://ex-fs.net/films/42541-korteks.html">Кортекс</a>
+ </div>
+<script type="text/javascript">
+/*---readmore---*/
+if ($('.FullstorySubFormText').length) {
+	$('.FullstorySubFormText').each(function (e) {
+		var hght = $(this).height();
+		$(this).data('height', hght);
+		if (hght > 75) {
+			$(this).addClass('moder_collapsed').after('<span class="btn-expand" title="Текст свёрнут!">подробнее</span>');
+		};
+	});
+	$(document).on('click', '.btn-expand', function () {
+		var ths = $(this);
+		var prevEl = ths.prev('.moder_collapsed');
+
+		if (ths.hasClass('expanded')) {
+			prevEl.animate({
+					height: '75'
+				},
+				800, function () {
+					ths.text('подробнее').removeClass('expanded');
+				});
+		}
+		else {
+			prevEl.animate({
+					height: prevEl.data('height')
+				},
+				800, function () {
+					ths.text('cвернуть').addClass('expanded');
+				});
+		};
+
+	});
+};
+</script> </div><div class="clear"></div></div>
+
+
+</div>
+</div>   
+<div class="clear"></div>
+
+<div id="finish"></div>
+
+<div class="Footer">
+    <div class="FooterForm">
+        <div class="FooterOn">
+            <a href="/index.php?do=feedback">Контакты</a>            
+        </div>
+        <div class="FooterOn">
+            <a href="/about.html">О нас</a>           
+        </div>
+        <div class="FooterOn">
+            <a href="/rightholders.html">Правообладателям</a>            
+        </div>
+        <div class="FooterOn">
+            <a href="/why-register.html">Зачем регистрироваться</a>          
+        </div>
+        <div class="FooterOn">
+            <a href="/index.php?do=orderdesc">Стол заказов</a>            
+        </div> 
+        
+        <div class="FooterRight">
+            <div class="b-strip_item m-strip_item-sn">
+                <a class="b-strip_link link-vkontakte" href="http://vk.com/exfsnet" target="_blank" title="Vk.com"></a>
+                <a class="b-strip_link link-twitter" href="https://twitter.com/exfsnet" target="_blank" title="Twitter"></a>
+                <a class="b-strip_link link-facebook" href="https://www.facebook.com/exfsnet" target="_blank" title="Facebook"></a>
+            </div>
+        </div>
+    </div>
+
+
+
+<!-- Yandex.Metrika counter --><script type="text/javascript">(function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter21737164 = new Ya.Metrika({id:21737164, webvisor:true, clickmap:true, trackLinks:true, accurateTrackBounce:true}); } catch(e) { } }); var n = d.getElementsByTagName("script")[0], s = d.createElement("script"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = "text/javascript"; s.async = true; s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js"; if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); } })(document, window, "yandex_metrika_callbacks");</script><noscript><div><img src="//mc.yandex.ru/watch/21737164" style="position:absolute; left:-9999px;" alt="" /></div></noscript><!-- /Yandex.Metrika counter -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-50985732-3', 'auto');
+  ga('send', 'pageview');
+
+</script>   
+</body>
+</html>
+<!-- DataLife Engine Copyright SoftNews Media Group (http://dle-news.ru) -->
+
