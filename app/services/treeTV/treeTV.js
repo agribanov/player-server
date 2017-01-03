@@ -1,4 +1,4 @@
-const { TREE_TV_CODE } = require('./services');
+const { TREE_TV_CODE } = require('../services');
 
 const config = {
     url: 'http://m.tree.tv',
@@ -8,7 +8,7 @@ const config = {
     search: '/search?usersearch={query}'
 }
 
-const utils = require('../utils'),
+const utils = require('../../utils'),
     cheerio = require('cheerio');
 
 module.exports.list = (type = 'all', sort = 'new', pageNumber = 1) => {
