@@ -18,6 +18,7 @@ module.exports.parseSearchPage = parseListPage(
     '.SeaRchresultPostPoster img'
 );
 module.exports.parseDetailsPage = parseDetailsPage;
+module.exports.parseFoldersPage = parseFoldersPage;
 module.exports.parseFolderPage = parseFolderPage;
 module.exports.parseSubfolderPage = parseSubfolderPage;
 module.exports.parseFilePlaybackUrlPage = parseFilePlaybackUrlPage;
@@ -48,14 +49,14 @@ function parseListPage(itemSelector, infoSelector, titleSelector, linkSelector, 
     }
 }
 
-function parseDetailsPage(body) {
+function parseDetailsPage(id, body) {
     const $ = cheerio.load(body),
         parsedObject = {},
         $container = $('#dle-content');
 
     parsedObject.source = config.code;
-    parsedObject.id = config.code;
-    parsedObject.foldersKey = config.code;
+    parsedObject.id = id;
+    // parsedObject.foldersKey = config.code;
 
     parsedObject.title = utils.clearString($('.view-caption', $container).text());
     parsedObject.subtitle = utils.clearString($('.view-caption2', $container).text());
@@ -78,37 +79,88 @@ function parseDetailsPage(body) {
         }
     });
 
-    const $laguageOptions = $('#s_msoc option');
-    parsedObject.folders = [];
+    // const $laguageOptions = $('#s_msoc option');
+    // parsedObject.folders = [];
 
-    if ($laguageOptions.length) {
-        $laguageOptions.each((i, option) => {
-            const $option = $(option);
+    // if ($laguageOptions.length) {
+    //     $laguageOptions.each((i, option) => {
+    //         const $option = $(option);
 
-            parsedObject.folders.push(factory.create('folder', {
-                title: $option.text(),
-                id: getfolderIdFromFrameUrl($option.attr('value'))
-            }));
-        });
-    } else {
-        parsedObject.folders.push(factory.create('folder', {
-            title: 'Файлы',
-        }));
-    }
+    //         parsedObject.folders.push(factory.create('folder', {
+    //             title: $option.text(),
+    //             id: getFolderIdFromFrameUrl($option.attr('value'))
+    //         }));
+    //     });
+    // } else {
+    //     parsedObject.folders.push(factory.create('folder', {
+    //         title: 'Файлы',
+    //     }));
+    // }
 
-    let $iframe = $('#mcode_block iframe');
+    // let $iframe = $('#mcode_block iframe');
 
-    if (!$iframe.length) { $iframe = $('#rightholder iframe')}
+    // if (!$iframe.length) { $iframe = $('#rightholder iframe')}
 
-    parsedObject.folders[0].id = getfolderIdFromFrameUrl($iframe.attr('src'));
+    // parsedObject.folders[0].id = getFolderIdFromFrameUrl($iframe.attr('src'));
 
     return factory.create('details', parsedObject);
-    
+
     // return loadFolderData(parsedObject.folders[0].id).then(data => {
     //     parsedObject.folders[0].subfolders = data;
 
     //     return factory.create('details', parsedObject);
     // });
+}
+
+function parseFoldersPage(body) {
+    const $ = cheerio.load(body);
+
+    let $iframe = $('#mcode_block iframe');
+
+    if (!$iframe.length) { $iframe = $('#rightholder iframe') };
+
+    const iframeUrl = $iframe.attr('src');
+
+    return loadFoldersData(iframeUrl);
+}
+
+function loadFoldersData(url) {
+    const id = getFolderIdFromFrameUrl(url);
+    const type = getVideoTypeFromFrameUrl(url)
+
+    return utils.getPage(getRequestOptions(`${url}`), parseFoldersIframe.bind(this, id, type))
+}
+
+function parseFoldersIframe(id, type, body) {
+    const $ = cheerio.load(body);
+    const translators = $('#translator option');
+    const folders = [];
+
+    console.log(translators.length);
+
+    if (translators.length) {
+        translators.each((index, option) => {
+            const $option = $(option);
+            console.log($option.text());
+
+            folders.push(factory.create('folder', {
+                title: $option.text(),
+                id: `${type}/${$option.attr('value')}/iframe`,
+                files: []
+            }));
+        });
+    } else {
+        folders.push(factory.create('folder', {
+            title: "Файлы",
+            subfolders: [],
+            files: [factory.create('file', {
+                title: "Видео",
+                id: id
+            })]
+        }));
+    }
+
+    return folders;
 }
 
 function parseFolderPage(folderId, body) {
@@ -172,11 +224,11 @@ function parseFilePlaybackUrlPage(body) {
         .replace(/ /g, '')
         .replace(/,/g, '&')
         .replace(/:/g, '=');
-            // .replace(/ (\w+):/g, '"$1":'),
-        // fileData = JSON.parse(dataString);
+    // .replace(/ (\w+):/g, '"$1":'),
+    // fileData = JSON.parse(dataString);
     // fileData.debug = true;
     // console.log(fileData);
-    
+
 
 
     return utils.postPage(
@@ -186,13 +238,13 @@ function parseFilePlaybackUrlPage(body) {
 
 function parseManifestResponse(body) {
     const manifest = JSON.parse(body);
-    
+
     return manifest.mans.manifest_m3u8;
 }
 
-function loadFolderData(folderId) {
-    return utils.getPage(getRequestOptions(`${config.cdnUrl}/${folderId}`), parseFolderPage.bind(this, folderId))
-}
+// function loadFolderData(folderId) {
+//     return utils.getPage(getRequestOptions(`${config.cdnUrl}/${folderId}`), parseFolderPage.bind(this, folderId))
+// }
 
 function parseInfo($, data) {
     return (i, el) => {
@@ -214,10 +266,16 @@ function parseInfo($, data) {
 }
 
 
-function getfolderIdFromFrameUrl(url) {
+function getFolderIdFromFrameUrl(url) {
     const chunks = url.split('/');
 
     return [chunks[3], chunks[4], chunks[5].split('"')[0]].join('/');
+}
+
+function getVideoTypeFromFrameUrl(url) {
+    const chunks = url.split('/');
+
+    return chunks[3];
 }
 
 function fullImageUrl(uri) {

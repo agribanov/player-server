@@ -20,12 +20,13 @@ class Service {
     details(id) {
         const uri = utils.interpolate(config.detailsUri, { id });
 
-        return utils.getPage(getRequestOptions(`${config.url}${uri}`), parser.parseDetailsPage);
+        return utils.getPage(getRequestOptions(`${config.url}${uri}`), parser.parseDetailsPage.bind(this, id));
     }
 
-    folders(videoId, foldersKey) {
-        console.warn('folders method not implemented for ex_fs');
-        return new Promise(resolver => resolver());
+    folders(id) {
+        const uri = utils.interpolate(config.detailsUri, { id });
+
+        return utils.getPage(getRequestOptions(`${config.url}${uri}`), parser.parseFoldersPage);
     }
 
     subfolders(videoId, foldersKey, folderId) {

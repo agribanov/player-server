@@ -6,13 +6,12 @@ module.exports = {
     quality: '',
     imageUrl: '',
     length: '',
-    description: '',
-    foldersKey: ''
+    description: ''
 }
 /*
     //Optional folders:[]
 
-If `folders` does not exist meanf client should request them by /collection/folders/:serviceCode/?:videoId&:foldersKey'
+If `folders` does not exist meanf client should request them by /collection/folders/:serviceCode/:videoId'
 
 If `folders` exits should contain array of objects
     {
@@ -20,6 +19,6 @@ If `folders` exits should contain array of objects
         id
         files - optional
     }
-If `files` does not exist mean client should request them by /collection/files/:serviceCode/?:videoId&:foldersKey:folderId'
+If `files` does not exist mean client should request them by /collection/files/:serviceCode/:videoId?:folderId'
 
 */

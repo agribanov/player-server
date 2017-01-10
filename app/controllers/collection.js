@@ -44,9 +44,8 @@ module.exports.search = (req, res, next) => {
 
 module.exports.folders = (req, res, next) => {
     const {serviceCode, id } = req.params;
-    const {foldersKey} = req.query;
 
-    getService(codes.EX_FS_CODE).folders(id, foldersKey).then(
+    getService(codes.EX_FS_CODE).folders(id).then(
         data => res.json(data),
         err => res.status(err.statusCode || 500).send()
     )
